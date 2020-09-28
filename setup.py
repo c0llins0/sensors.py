@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="py-libsensors3",
+    name="pylibsensors3",
     version="0.0.1",
     author="Pavel Rojtberg",
     author_email="mail@rojtberg.net",
